@@ -1,3 +1,7 @@
+<img src="https://github.com/user-attachments/assets/320c7839-73a7-42b0-862b-2f9d55818db4" alt="Airbnb_Logo_Bélo svg" width="400"/>
+
+
+
 ## Description
 This project is about building an environment with planets to simulate the Sun – Earth – model 
 Moon. The background will be black with stars in random places. The Sun should be located 
