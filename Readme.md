@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/320c7839-73a7-42b0-862b-2f9d55818db4" alt="Airbnb_Logo_Bélo svg" width="400"/>
+<img src="https://github.com/user-attachments/assets/320c7839-73a7-42b0-862b-2f9d55818db4" alt="Airbnb_Logo_Bélo svg" width="200"/>
 
 
 
